@@ -1,4 +1,4 @@
-# Frontend Mentor - Solución de componentes de código QR
+# Frontend Mentor - Solución de enlaces de redes sociales
 
 Esta es una solución al [desafío de enlaces de redes sociales en Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Los desafíos de Frontend Mentor te ayudan a mejorar tus habilidades de programación creando proyectos realistas.
 
